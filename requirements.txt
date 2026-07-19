@@ -1,0 +1,20 @@
+# General
+numpy
+pandas
+scikit-learn
+tqdm
+
+# Image Processing
+scikit-image
+opencv-python
+Pillow
+mahotas
+
+# Statistics and plotting
+scipy
+pingouin
+scikit-posthocs
+statannotations
+matplotlib
+seaborn
+plotly
